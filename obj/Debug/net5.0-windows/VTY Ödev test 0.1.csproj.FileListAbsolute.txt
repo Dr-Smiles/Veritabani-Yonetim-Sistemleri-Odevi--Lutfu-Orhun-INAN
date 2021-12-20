@@ -1,0 +1,29 @@
+C:\Üniversite\AAAA\VTY Ödev test 0.1\bin\Debug\net5.0-windows\VTY Ödev test 0.1.exe
+C:\Üniversite\AAAA\VTY Ödev test 0.1\bin\Debug\net5.0-windows\VTY Ödev test 0.1.deps.json
+C:\Üniversite\AAAA\VTY Ödev test 0.1\bin\Debug\net5.0-windows\VTY Ödev test 0.1.runtimeconfig.json
+C:\Üniversite\AAAA\VTY Ödev test 0.1\bin\Debug\net5.0-windows\VTY Ödev test 0.1.runtimeconfig.dev.json
+C:\Üniversite\AAAA\VTY Ödev test 0.1\bin\Debug\net5.0-windows\VTY Ödev test 0.1.dll
+C:\Üniversite\AAAA\VTY Ödev test 0.1\bin\Debug\net5.0-windows\ref\VTY Ödev test 0.1.dll
+C:\Üniversite\AAAA\VTY Ödev test 0.1\bin\Debug\net5.0-windows\VTY Ödev test 0.1.pdb
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY Ödev test 0.1.csproj.AssemblyReference.cache
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY Ödev test 0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY Ödev test 0.1.AssemblyInfoInputs.cache
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY Ödev test 0.1.AssemblyInfo.cs
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY Ödev test 0.1.csproj.CoreCompileInputs.cache
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY Ödev test 0.1.dll
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\ref\VTY Ödev test 0.1.dll
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY Ödev test 0.1.pdb
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY Ödev test 0.1.genruntimeconfig.cache
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY_Ödev_test_0._1.Form1.resources
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY_Ödev_test_0._1.Form2.resources
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY_Ödev_test_0._1.Properties.Resources.resources
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY Ödev test 0.1.csproj.GenerateResource.cache
+C:\Üniversite\AAAA\VTY Ödev test 0.1\bin\Debug\net5.0-windows\Npgsql.dll
+C:\Üniversite\AAAA\VTY Ödev test 0.1\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY Ödev test 0.1.csproj.CopyComplete
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY_Ödev_test_0._1.UserControl1.resources
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY_Ödev_test_0._1.envanterControl.resources
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY_Ödev_test_0._1.alimSatim.resources
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY_Ödev_test_0._1.calismaSaatleri.resources
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY_Ödev_test_0._1.kullaniciAdlari.resources
+C:\Üniversite\AAAA\VTY Ödev test 0.1\obj\Debug\net5.0-windows\VTY_Ödev_test_0._1.geriIade.resources
